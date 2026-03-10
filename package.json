@@ -1,0 +1,23 @@
+{
+  "name": "json-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "resume export dist/index.html --theme elegant",
+    "copy-assets": "cp -R node_modules/jsonresume-theme-elegant/assets dist/",
+    "resume": "npm run build && npm run copy-assets",
+    "serve": "live-server dist",
+    "watch": "node scripts/build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^5.0.0",
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-even": "^0.26.1",
+    "live-server": "^1.2.2",
+    "resume-cli": "^3.0.8",
+    "resumed": "^6.1.0"
+  }
+}

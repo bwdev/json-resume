@@ -1,0 +1,323 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Brian Meek",
+        "label": "Full Stack Developer",
+        "image": "https://gravatar.com/avatar/cd83ff76fc8f88e671fc3dbb7f6e97d1d616854018e9a3635bf2ca710c338a1f?s=200",
+        "email": "bwmeek@gmail.com",
+        "phone": "(479) 215-9555",
+        "url": "https://brianwmeek.com",
+        "summary": "I am a dedicated Software Developer/Architect with a passion for designing robust systems across front-end and back-end platforms. I am committed to delivering value to clients through thoughtful software design and high-quality development practices. I have a proven track record of building products that meet rigorous standards in design, user experience, performance, and reliability.",
+        "location": {
+            "address": "12801 S 4th Pl",
+            "postalCode": "OK 74037",
+            "city": "Tulsa",
+            "countryCode": "US",
+            "region": "Oklahoma"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "@bwmeek",
+                "url": "https://x.com/bwmeek"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "T.D. Williamson",
+            "location": "Tulsa, OK",
+            "description": "Pipeline solutions company",
+            "position": "Manager/Tech Lead Digital Platform",
+            "url": "http://tdwilliamson.com",
+            "startDate": "2021-02-05",
+            "endDate": "",
+            "summary": "T.D. Williamson is a global leader in pipeline solutions, providing innovative products and services to ensure the integrity and efficiency of pipeline systems.",
+            "highlights": [
+                "Lead a team of developers in the design and development of customer-facing applications, utilizing modern web technologies and cloud platforms to deliver high-quality software solutions. Collaborate with cross-functional teams to gather requirements, design system architecture, and implement features that meet business needs. Implement best practices in software development, including code reviews, testing, and continuous integration/continuous deployment (CI/CD) pipelines to ensure the delivery of reliable and maintainable software products.",
+                "Designed and developed cloud infrastructure and devops processes to support the development and deployment of applications, utilizing Microsoft Azure services and tools to create scalable and secure environments. Implemented an application cluster with Azure Kubernetes Service (AKS) to host applications, ensuring high availability and scalability. Set up CI/CD pipelines using Azure DevOps to automate the build, test, and deployment processes, improving efficiency and reducing time to market for new features and updates."
+            ]
+        },
+        {
+            "name": "SemGroup Corporation",
+            "location": "Tulsa, OK",
+            "description": "Midstream energy company (acquired by Energy Transfer Partners in December 2019)",
+            "url": "https://www.semgroup.com",
+            "startDate": "2014-08",
+            "endDate": "2020-05",
+            "position": "Software Developer",
+            "summary": "SemGroup was a midstream energy company with a diversified portfolio of assets and operations, including natural gas gathering and processing, crude oil storage and transportation, and refined products logistics. The company was acquired by Energy Transfer Partners in December 2019, further expanding Energy Transfer's presence in the midstream energy sector.",
+            "highlights": [
+                "Work as part of a small autonomous team responsible for providing quality solutions to primarily internal business customers.",
+                "Collaborate directly with subject matter experts throughout the software development lifecycle, from requirements gathering to deployment and support.",
+                "Utilize the Microsoft .NET stack, including C#, ASP.NET, SQL Server, Entity Framework, Visual Studio, Visual Studio Code, IIS, PowerShell, and Active Directory.",
+                "Develop applications with Web API backends and single page application frameworks such as Angular for the front end.",
+                "Implement service bus or Windows services for bulk or extended processing as required by project needs.",
+                "Responsible for gathering and refining requirements, developing, testing, deploying, documenting, and supporting projects according to customer needs."
+            ]
+        },
+        {
+            "name": "SemGroup Corporation",
+            "position": "Developer Specialist",
+            "startDate": "2019-06"
+        },
+        {
+            "name": "SemGroup Corporation",
+            "position": "Developer II",
+            "startDate": "2015-03",
+            "endDate": "2016-09"
+        },
+        {
+            "name": "SemGroup Corporation",
+            "position": "Developer I",
+            "startDate": "2014-08",
+            "endDate": "2015-03"
+        },
+        {
+            "name": "DaySpring",
+            "location": "Siloam Springs, AR",
+            "url": "https://www.dayspring.com",
+            "position": "Web Developer",
+            "startDate": "2013-05",
+            "endDate": "2014-08",
+            "highlights": [
+                "At DaySpring I was responsible for planning, developing, testing, and supporting web applications as a member of the Business Solutions team. DaySpring utilized primarily Microsoft technologies for web development. SQL Server Development and Integration"
+            ]
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "John Brown University",
+            "url": "https://www.jbu.edu/",
+            "area": "Organizational Management/Business Information Systems",
+            "studyType": "Bachelor",
+            "startDate": "2009-08-01",
+            "endDate": "2011-05-01",
+            "score": "3.8",
+            "courses": [
+                "Systems Analysis and Design",
+                "Leadership Principles",
+                "Database Management Systems"
+            ]
+        },
+        {
+            "institution": "Northwest Arkansas Community College",
+            "url": "https://www.nwacc.edu/",
+            "area": "General Studies",
+            "studyType": "Associate",
+            "startDate": "2001-08-01",
+            "endDate": "2003-12-01"
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Angular",
+                "Node.js",
+                "ASP.NET",
+                "C#"
+            ]
+        },
+        {
+            "name": "Database Design and Development",
+            "level": "Master",
+            "keywords": [
+                "SQL Server",
+                "PostgreSQL",
+                "SQL",
+                "Database Architecture",
+                "Data Modeling"
+            ]
+        },
+        {
+            "name": "Software Design and Development",
+            "level": "Master",
+            "keywords": [
+                "Object-Oriented Programming",
+                "Agile Methodologies",
+                "Software Architecture",
+                "Design Patterns",
+                "Unit Testing",
+                "Integration Testing",
+                "Test-Driven Development",
+                "Code Reviews",
+                "Continuous Integration/Continuous Deployment (CI/CD)",
+                "Version Control (Git)",
+                "Security Best Practices"
+            ]
+        },
+        {
+            "name": "Cloud Computing",
+            "level": "Master",
+            "keywords": [
+                "Microsoft Azure",
+                "Cloud Architecture",
+                "Cloud Security",
+                "Identity Access Management",
+                "Role-Based Access Control",
+                "Authentication and Authorization",
+                "Azure Kubernetes Service (AKS)",
+                "Azure DevOps",
+                "Application Insights",
+                "Grafana"
+            ]
+        },
+        {
+            "name": "Leadership and Team Management",
+            "level": "Advanced",
+            "keywords": [
+                "Team Leadership",
+                "Project Management",
+                "Mentoring",
+                "Cross-Functional Teamwork",
+                "Stakeholder Communication",
+                "System Design",
+                "Agile Methodologies"
+            ]
+        },
+        {
+            "name": "Virtualization and Containerization",
+            "level": "Advanced",
+            "keywords": [
+                "Docker",
+                "Kubernetes",
+                "ArgoCD",
+                "GitOps",
+                "Azure Kubernetes Service (AKS)"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                "Hiking",
+                "Fishing",
+                "Music",
+                "Sports"
+            ]
+        }
+    ],
+    "references": [],
+    "projects": [
+        {
+            "name": "Integrity Insights",
+            "description": "Customer facing application providing insights into pipeline integrity and maintenance needs",
+            "highlights": [
+                "Led development and ideation of identity access management, utlizing available tools and technologies to implement secure and efficient access control for the application. Integrated with existing identity providers and implemented role-based access control to ensure appropriate permissions for users. Implemented authentication and authorization mechanisms to protect sensitive data and ensure compliance with security standards. Worked closely with business stakeholders to understand access requirements and design a solution that meets the needs of the application while maintaining security best practices."
+            ],
+            "keywords": [
+                "Pipeline Integrity",
+                "Identity Access Management",
+                "Role-Based Access Control",
+                "Cloud Security"
+            ],
+            "startDate": "-",
+            "endDate": "-",
+            "url": "https://insight.tdwilliamson.com",
+            "roles": [
+                "Team lead",
+                "Designer",
+                "Developer",
+                "DevOps",
+                "Security"
+            ],
+            "entity": "T.D. Williamson",
+            "type": "application"
+        },
+        {
+            "name": "Product Selector Application",
+            "description": "Internal and partner-facing application used to identify compatible products and valid product configurations for specific use cases",
+            "highlights": [
+                "Designed and developed a system enabling internal teams and channel partners to discover product compatibility, relationships, and configuration rules across a complex product catalog. Implemented search and filtering capabilities to quickly identify valid product combinations for customer solutions. Integrated product data from multiple internal systems to maintain accurate product relationship mappings. Improved efficiency for sales and engineering teams by reducing manual product validation and configuration errors."
+            ],
+            "keywords": [
+                "Product Compatibility",
+                "Product Configuration",
+                "Search and Filtering",
+                "Data Integration"
+            ],
+            "startDate": "-",
+            "endDate": "-",
+            "url": "https://productselector.tdwilliamson.com",
+            "roles": [
+                "Team lead",
+                "Designer",
+                "Developer",
+                "DevOps",
+                "Security"
+            ],
+            "entity": "T.D. Williamson",
+            "type": "application"
+        },
+        {
+            "name": "SemGas Operations",
+            "description": "Internal application used to manage and track operations for SemGas, a natural gas gathering and processing company",
+            "highlights": [
+                "Lead the design and development of an internal application to manage and track operations for SemGas, a natural gas gathering and processing company. Collaborated with operations teams to gather requirements and design a system that meets their needs for data visualization, maintenance tracking, and reporting. Implemented features to streamline operations management, improve data accuracy, and enhance reporting capabilities. Integrated with existing systems to ensure seamless data flow and provide real-time insights into operational performance."
+            ],
+            "keywords": [
+                "Operations Management",
+                "Data Visualization",
+                "Maintenance Tracking",
+                "Reporting"
+            ],
+            "startDate": "-",
+            "endDate": "-",
+            "url": "https://semgas.tdwilliamson.com",
+            "roles": [
+                "Team lead",
+                "Designer",
+                "Developer",
+                "DevOps",
+                "Security"
+            ],
+            "entity": "SemGroup Corporation",
+            "type": "application"
+        },
+        {
+            "name": "Incident Tracking System",
+            "description": "The Incident Tracking System was designed and developed to streamline the process of recording and managing workplace incidents within the organization. The system enables users to log incidents, establish investigation committees and review boards, assign corrective actions, and track remediation efforts. Additionally, it provides a structured way to distribute lessons learned, fostering a culture of continuous improvement and safety. This project significantly improved operational efficiency and accountability in incident management.",
+            "highlights": [
+                "I was responsible for the architecture, development, deployment, and ongoing maintenance of this application, ensuring its reliability and effectiveness."
+            ],
+            "keywords": [
+                "Operations Management",
+                "Data Visualization",
+                "Maintenance Tracking",
+                "Reporting"
+            ],
+            "startDate": "-",
+            "endDate": "-",
+            "url": "https://semgas.tdwilliamson.com",
+            "roles": [
+                "Team lead",
+                "Designer",
+                "Developer",
+                "DevOps",
+                "Security"
+            ],
+            "entity": "SemGroup Corporation",
+            "type": "application"
+        }
+    ],
+    "meta": {
+        "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
+        "version": "v1.0.0",
+        "lastModified": "2026-03-07T00:00:00"
+    }
+}
