@@ -14,6 +14,7 @@ jobs:
         with:
           node-version: '20'
       - run: npm install
+      - run: mkdir dist
       - run: npm run resume
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
